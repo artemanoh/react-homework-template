@@ -20,7 +20,7 @@ export class TodoEditor extends Component {
 
   render() {
     return (
-      <form onSubmit={this.handleSubmit} style={{ marginBottom: "20px" }}>
+      <form onSubmit={this.handleSubmit}>
         <div className="box">
         <input
           type="text"
