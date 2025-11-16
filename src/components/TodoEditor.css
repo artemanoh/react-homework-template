@@ -1,0 +1,23 @@
+.addButton{
+    padding: 10px 60px;
+    background-color: rgb(0, 221, 0);
+    border: none;
+    border-radius: 4px;
+    color:#fff;
+}
+
+.addInput{
+    padding: 10px 200px;
+    border-radius: 4px;
+}
+
+.box{
+    margin-top: 40px;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+    padding: 10px;
+border: black 2px solid;
+    border-radius: 4px;
+}
